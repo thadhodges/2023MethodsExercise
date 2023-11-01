@@ -1,0 +1,14 @@
+C:\WORK\REPO2\Method Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.exe
+C:\WORK\REPO2\Method Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.deps.json
+C:\WORK\REPO2\Method Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.runtimeconfig.json
+C:\WORK\REPO2\Method Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.dll
+C:\WORK\REPO2\Method Exercise\MethodsExercise\bin\Debug\net6.0\MethodsExercise.pdb
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.dll
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\refint\MethodsExercise.dll
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
+C:\WORK\REPO2\Method Exercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
