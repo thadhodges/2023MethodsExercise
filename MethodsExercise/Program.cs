@@ -91,14 +91,17 @@
                     "NO",
                     "Maybe",
                     "Don't Do It",
-                    "The Stars say Go For It!!!"
+                    "The Stars say Go For It!!!",
+                    "Crazy Train"
                 };//list of strings
-
+                //answers.RemoveAt
                 Random rand = new();//instantiates a random objec
                 string answer = answers[rand.Next(answers.Count)];//gets random string from list using index
                 Console.WriteLine(answer);//output of method
             }
             Magic8Ball();//call the magic8ball method
+
+            //make a method that simulates a simple race
 
         }
     }
