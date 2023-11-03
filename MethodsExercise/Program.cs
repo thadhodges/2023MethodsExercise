@@ -100,7 +100,23 @@
             }
             Magic8Ball();//call the magic8ball method
 
-            //make a method that simulates a simple race
+            
+
+            static int MyMethod(params int[] numbers )
+            {
+                int value = 0;
+                foreach (int num in numbers )
+                {
+                    int answer = value += num;
+                   
+                }
+                return value;
+
+            }
+
+            MyMethod(2, 5, 8, 0, 98, 89, 45, 23, 45, 67, 8, 6, 5, 4, 3);
+
+
 
         }
     }
