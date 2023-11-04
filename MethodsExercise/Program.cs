@@ -1,4 +1,6 @@
-﻿namespace MethodsExercise
+﻿using System;
+
+namespace MethodsExercise
 {
     public class Program
     {
@@ -104,19 +106,33 @@
 
             static void MyMethod(params int[] numbers )
             {
-                int value = 0;
+                
                 foreach (int num in numbers )
                 {
-                    int answer = value += num;
+                    int value = 0;
+                    value += num;
                    
                 }
-                Console.WriteLine(value); 
+                Console.WriteLine(value); //need to figure this one out.
 
             }
 
             MyMethod(2, 5, 8, 0, 98, 89, 45, 23, 45, 67, 8, 6, 5, 4, 3);
 
+            static int MyParamsLength( params int[] numbers )
+            {
 
+                //foreach ( int num in numbers )
+                //{
+                //    //int ans = ans += num;
+                //    Console.WriteLine(numbers.Length);
+                //}
+                return numbers.Length;
+               
+
+            }
+
+            Console.WriteLine(MyParamsLength(2, 5, 8, 0, 98, 89, 45, 23, 45, 67, 8, 6, 5, 4, 3)); 
 
         }
     }
