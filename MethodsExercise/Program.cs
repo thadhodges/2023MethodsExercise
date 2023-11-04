@@ -102,7 +102,7 @@
 
             
 
-            static int MyMethod(params int[] numbers )
+            static void MyMethod(params int[] numbers )
             {
                 int value = 0;
                 foreach (int num in numbers )
@@ -110,7 +110,7 @@
                     int answer = value += num;
                    
                 }
-                return value;
+                Console.WriteLine(value); 
 
             }
 
